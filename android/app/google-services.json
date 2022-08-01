@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316832982518",
+    "project_id": "rnfireauth-28b9e",
+    "storage_bucket": "rnfireauth-28b9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316832982518:android:b67388725aa231252d53d7",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316832982518-tlua8rl7r4m20s755g38suhpud5fdn8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ZMR7QP6P1knXGfxv5rkJe21A4qddQRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316832982518-tlua8rl7r4m20s755g38suhpud5fdn8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
